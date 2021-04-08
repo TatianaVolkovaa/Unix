@@ -36,7 +36,7 @@
 ![](screens/img18.bmp)
 
 ### 3. Работа с удаленными репозиториями и GitHub
-Зарегистрироваться на сайте github.com
+- Зарегистрироваться на сайте github.com
 https://github.com/TatianaVolkovaa
 - Форкнуть данный репозиторий в свой аккаунт. 
 https://github.com/TatianaVolkovaa/0_git_basics
