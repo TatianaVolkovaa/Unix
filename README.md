@@ -10,6 +10,7 @@ done ( :green_book: <-- :ledger: <-- :orange_book: <-- :closed_book: ) not done
 * [3_Parallelism](https://github.com/TatianaVolkovaa/Unix/tree/main/3_Parallelism) :green_book:
 * [4_asyncio_server](https://github.com/TatianaVolkovaa/Unix/tree/main/4_asyncio_server) :green_book:
 * [5_FTP_server](https://github.com/TatianaVolkovaa/Unix/tree/main/5_FTP_server) :green_book:
+* [n_Поднятие веб-сервера](https://github.com/TatianaVolkovaa/Unix/tree/main/n_Поднятие веб-сервера) :green_book:
 * [6_Web_server](https://github.com/TatianaVolkovaa/Unix/tree/main/6_Web_server) :green_book:
 * [7_Symmetric_ciphers](https://github.com/TatianaVolkovaa/Unix/tree/main/7_Symmetric_ciphers) :closed_book:
 * [8_Assymmetric_ciphers](https://github.com/TatianaVolkovaa/Unix/tree/main/8_Assymmetric_ciphers) :closed_book:

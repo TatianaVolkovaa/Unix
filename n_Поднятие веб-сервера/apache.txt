@@ -1,0 +1,14 @@
+  514  sudo apt update
+  515  sudo apt install apache2
+  516  sudo systemctl status apache2
+  517  sudo mkdir -p /var/www/tvolkova.com
+  518  sudo mkdir -p /var/www/tvolkova.com/public_html
+  519  sudo nano /var/www/tvolkova.com/public_html/index.html
+  520  sudo chown -R www-data: /var/www/tvolkova.com
+  521  sudo chmod -R 755 /var/www/tvolkova.com
+  522  sudo nano /etc/apache2/sites-available/tvolkova.com.conf
+  523  sudo a2ensite tvolkova.com
+  524  sudo apachectl configtest
+  525  sudo nano /etc/hosts
+  526  sudo systemctl restart apache2
+
