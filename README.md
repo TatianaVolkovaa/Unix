@@ -14,4 +14,4 @@ done ( :green_book: <-- :ledger: <-- :orange_book: <-- :closed_book: ) not done
 * [6_Web_server](https://github.com/TatianaVolkovaa/Unix/tree/main/6_Web_server) :green_book:
 * [7_Symmetric_ciphers](https://github.com/TatianaVolkovaa/Unix/tree/main/7_Symmetric_ciphers) :green_book:
 * [8_Assymmetric_ciphers](https://github.com/TatianaVolkovaa/Unix/tree/main/8_Assymmetric_ciphers) :green_book:
-* [9_flask_app](https://github.com/TatianaVolkovaa/Unix/tree/main/9_flask_app) :closed_book:
+* [9_flask_app](https://github.com/TatianaVolkovaa/Unix/tree/main/9_flask_app) :green_book:
